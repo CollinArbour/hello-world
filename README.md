@@ -2,7 +2,7 @@
 PHYS 549 Introductory Tutorial to GitHub
 
 ## What is GitHub?
-Git is a version control software, that keeps a history of your edits on files you store in it. GitHub is a webservice that uses Git software to make team collaboration on coding projects easier. Your repositories of software code are stored on line and people can see it, pull it for themselves, branch it to make their own edits and troubleshoot, and can then request to merge with the original repository to publish the new edits.
+Git is a version control software, that keeps a history of your edits on files you store in it. GitHub is a webservice that uses Git software to make team collaboration on coding projects easier. Your repositories of software code are stored on line and people can see it, check it out for themselves, branch it to make their own edits and troubleshoot new features, and can then request to pull/merge their code with the original branch to update/publish the new edits. It helps prevent the original files from being corrupted or broken, and when mergin the service helps identify conflicts between new code and existing code, and makes it easy to see where those conflicts are.
 
 ---
 
